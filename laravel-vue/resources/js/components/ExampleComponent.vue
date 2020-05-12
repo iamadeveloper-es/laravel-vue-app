@@ -21,3 +21,11 @@
         }
     }
 </script>
+
+<style lang="scss">
+@import '../../sass/app.scss';
+    .container{
+        background-color: $blue;
+    }
+</style>
+
